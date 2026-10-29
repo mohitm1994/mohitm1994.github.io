@@ -1,0 +1,19 @@
+"3DV":
+  url: https://3dvconf.github.io/
+  color: "#2c6e49"
+
+"SIGGRAPH Asia":
+  url: https://asia.siggraph.org/
+  color: "#1f4e79"
+
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#6b3fa0"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#9c2a2a"
+
+"ECCV":
+  url: https://eccv.ecva.net/
+  color: "#b5651d"

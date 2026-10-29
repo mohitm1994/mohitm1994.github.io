@@ -1,0 +1,89 @@
+cv:
+  name: Mohit Mendiratta
+  label: Head of AI Research, QOVES
+  email: mohitmendiratta2014@gmail.com
+  location: Saarbrücken, Germany
+  image: ""
+  summary: Computer vision and graphics researcher working on photorealistic 3D faces, Gaussian head avatars, text-driven editing and vision-language models for faces.
+
+  social_networks:
+    - network: GitHub
+      username: mohitm1994
+    - network: LinkedIn
+      username: mohit-mendiratta-804604105
+
+  sections:
+    Education:
+      - institution: Max Planck Institute for Informatics and Saarland University
+        location: Saarbrücken, Germany
+        url: https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence
+        area: Computer Science
+        studyType: Dr.-Ing.
+        start_date: 2021-09
+        end_date: 2026-03-31
+        highlights:
+          - Advisor Prof. Dr. Christian Theobalt. 3D human and facial modelling, generative AI and multimodal reasoning.
+
+      - institution: Saarland University
+        location: Saarbrücken, Germany
+        area: Visual Computing
+        studyType: MSc
+        start_date: 2018-10
+        end_date: 2021-08
+
+      - institution: Kalinga Institute of Industrial Technology
+        location: Bhubaneswar, India
+        area: Electrical and Electronics Engineering
+        studyType: BTech
+        start_date: 2013-08
+        end_date: 2017-06
+
+    Experience:
+      - company: QOVES
+        position: Head of AI Research
+        location: Saarbrücken, Germany
+        url: https://www.qoves.com
+        start_date: 2026-04-01
+        end_date: present
+        summary: Lead a team of ML researchers and engineers building facial analysis and AI-powered image editing products.
+
+      - company: Max Planck Institute for Informatics
+        position: Research Assistant
+        location: Saarbrücken, Germany
+        start_date: 2019-08
+        end_date: 2021-08
+        summary: Built an egocentric videoconferencing system for hands-free video calls from smart glasses, published in ACM TOG (SIGGRAPH Asia 2020).
+
+      - company: Fraunhofer IZFP
+        position: Research Assistant
+        location: Saarbrücken, Germany
+        start_date: 2019-01
+        end_date: 2019-10
+        summary: No-reference image quality assessment, an ROI analysis tool, and large-scale synthetic image generation with heat-equation based modelling.
+
+      - company: Zentron Labs
+        position: Associate Software Engineer
+        location: Bangalore, India
+        start_date: 2017-07
+        end_date: 2018-08
+        summary: Image processing and vision system design for Fruitron, an automated optical sorting machine using visible, infrared and UV imaging.
+
+      - company: Zentron Labs
+        position: Intern
+        location: Bangalore, India
+        start_date: 2017-01
+        end_date: 2017-06
+        summary: Fruit tracking, ejection and vision calibration for Fruitron.
+
+    Awards:
+      - title: Saarland Scholarship for International Students
+        date: 2020-03
+        awarder: Saarland University
+
+      - title: Germany Scholarship (Deutschlandstipendium)
+        awarder: Saarland University
+        summary: For outstanding academic performance.
+
+    Service:
+      - label: Reviewer
+        details: SIGGRAPH, SIGGRAPH Asia
