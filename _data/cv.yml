@@ -29,6 +29,8 @@ cv:
         studyType: MSc
         start_date: 2018-10
         end_date: 2021-08
+        highlights:
+          - "Final grade: 1.4 (German scale)"
 
       - institution: Kalinga Institute of Industrial Technology
         location: Bhubaneswar, India
@@ -36,6 +38,8 @@ cv:
         studyType: BTech
         start_date: 2013-08
         end_date: 2017-06
+        highlights:
+          - Graduated in the top 5% of the class
 
     Experience:
       - company: QOVES
