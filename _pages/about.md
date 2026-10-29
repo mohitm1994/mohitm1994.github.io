@@ -31,4 +31,6 @@ I did my PhD at the [Max Planck Institute for Informatics](https://www.mpi-inf.m
 
 Our study on how commercial AI models rate facial attractiveness, [*Beauty is in the AI of the beholder*](https://arxiv.org/abs/2609.02512), was featured in this YouTube Short.
 
-<iframe src="https://www.youtube-nocookie.com/embed/nr3ZrieTKXA" title="YouTube Short on Beauty is in the AI of the beholder" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width: 100%; max-width: 315px; aspect-ratio: 9 / 16; border: 0; border-radius: 8px;"></iframe>
+[![Watch the YouTube Short](/assets/img/publication_preview/beauty_short.jpg){: style="width: 200px; border-radius: 8px;"}](https://www.youtube.com/shorts/nr3ZrieTKXA)
+
+[Watch on YouTube](https://www.youtube.com/shorts/nr3ZrieTKXA)
