@@ -34,3 +34,9 @@ Our study on how commercial AI models rate facial attractiveness, [*Beauty is in
 [![Watch the YouTube Short](/assets/img/publication_preview/beauty_short.jpg){: style="width: 200px; border-radius: 8px;"}](https://www.youtube.com/shorts/nr3ZrieTKXA)
 
 [Watch on YouTube](https://www.youtube.com/shorts/nr3ZrieTKXA)
+
+[Two Minute Papers](https://www.youtube.com/@TwoMinutePapers) covered our SIGGRAPH Asia 2020 paper [*Egocentric Videoconferencing*](https://vcai.mpi-inf.mpg.de/projects/EgoChat/):
+
+<div style="max-width: 560px; aspect-ratio: 16 / 9;"><iframe src="https://www.youtube-nocookie.com/embed/atzPvW95ahQ" title="Two Minute Papers on Egocentric Videoconferencing" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%; height: 100%; border: 0; border-radius: 8px;"></iframe></div>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=atzPvW95ahQ)
