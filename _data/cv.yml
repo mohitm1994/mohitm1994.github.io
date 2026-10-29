@@ -49,7 +49,11 @@ cv:
         url: https://www.qoves.com
         start_date: 2026-04-01
         end_date: present
-        summary: Lead a team of ML researchers and engineers building facial analysis and AI-powered image editing products.
+        summary: Led AI research for QOVES's facial analysis and image editing products.
+        highlights:
+          - Built a complete face-editing system in 7 months, spanning precise geometric edits, appearance editing, latent control and outpainting.
+          - Led a team of researchers and interns.
+          - Worked with the psychology team to study facial biases in LLMs.
 
       - company: Max Planck Institute for Informatics
         position: Doctoral Researcher
