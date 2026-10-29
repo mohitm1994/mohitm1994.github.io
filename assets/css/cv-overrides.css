@@ -18,3 +18,9 @@
   .cv ul.list-group > li.list-group-item > .row > div:first-child,
   .cv ul.list-group > li.list-group-item > .row > div:last-child { flex: 0 0 100% !important; max-width: 100% !important; }
 }
+/* Content column: one left edge for titles, text and bullets */
+.cv ul.list-group > li.list-group-item > .row > div:last-child { padding-left: 1.5rem !important; padding-right: 0; }
+.cv ul.list-group > li.list-group-item > .row > div:last-child > * { margin-left: 0 !important; }
+.cv ul.list-group > li.list-group-item > .row > div:last-child h6 { margin-top: 0; margin-bottom: 0.3rem; }
+.cv ul.list-group > li.list-group-item > .row > div:last-child ul { margin: 0.4rem 0 0 !important; padding-left: 1.1rem !important; }
+.cv ul.list-group > li.list-group-item > .row > div:last-child p { margin-bottom: 0.3rem; }
