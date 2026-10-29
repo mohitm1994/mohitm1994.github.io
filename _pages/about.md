@@ -11,6 +11,7 @@ profile:
 
 selected_papers: true
 social: true
+show_media: true
 
 announcements:
   enabled: false # add items to _news/ and set to true
@@ -26,17 +27,3 @@ My research sits at the intersection of computer vision and computer graphics, w
 I did my PhD research at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence) in the Visual Computing and Artificial Intelligence department, advised by [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/), from 2021 to 2026; the Dr.-Ing. defence is pending. Before that I completed an MSc in Visual Computing at Saarland University and a BTech in Electrical and Electronics Engineering at KIIT, Bhubaneswar. I review for SIGGRAPH, SIGGRAPH Asia, CVPR, 3DV and Eurographics.
 
 <p class="mt-3"><a href="mailto:mohitmendiratta2014@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a> &nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=Y3Bc8isAAAAJ"><i class="ai ai-google-scholar"></i> Google Scholar</a> &nbsp;&nbsp; <a href="https://github.com/mohitm1994"><i class="fa-brands fa-github"></i> GitHub</a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/mohit-mendiratta-804604105/"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></p>
-
-### In the media
-
-Our study on how commercial AI models rate facial attractiveness, [*Beauty is in the AI of the beholder*](https://arxiv.org/abs/2609.02512), was featured in this YouTube Short.
-
-<div style="max-width: 315px; aspect-ratio: 9 / 16;"><iframe src="https://www.youtube-nocookie.com/embed/nr3ZrieTKXA" title="YouTube Short on Beauty is in the AI of the beholder" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%; height: 100%; border: 0; border-radius: 8px;"></iframe></div>
-
-[Watch on YouTube](https://www.youtube.com/shorts/nr3ZrieTKXA)
-
-[Two Minute Papers](https://www.youtube.com/@TwoMinutePapers) covered our SIGGRAPH Asia 2020 paper [*Egocentric Videoconferencing*](https://vcai.mpi-inf.mpg.de/projects/EgoChat/):
-
-<div style="max-width: 560px; aspect-ratio: 16 / 9;"><iframe src="https://www.youtube-nocookie.com/embed/atzPvW95ahQ" title="Two Minute Papers on Egocentric Videoconferencing" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width: 100%; height: 100%; border: 0; border-radius: 8px;"></iframe></div>
-
-[Watch on YouTube](https://www.youtube.com/watch?v=atzPvW95ahQ)
