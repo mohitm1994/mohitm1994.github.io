@@ -26,3 +26,9 @@ I lead the AI research team at [QOVES](https://www.qoves.com), where we build fa
 My research sits at the intersection of computer vision and computer graphics, with a focus on photorealistic 3D faces and heads. I work on morphable models and Gaussian splatting head avatars, text-driven editing of dynamic 3D humans, and vision-language models that can reason about faces. Recent work includes [GRMM](https://mohitm1994.github.io/GRMM/), a real-time Gaussian morphable head model with learned residuals (3DV 2026), and [AvatarStudio](https://vcai.mpi-inf.mpg.de/projects/AvatarStudio/), text-driven editing of dynamic head avatars (SIGGRAPH Asia 2023).
 
 I did my PhD at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence) in the Visual Computing and Artificial Intelligence department, advised by [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/). Before that I completed an MSc in Visual Computing at Saarland University and a BTech in Electrical and Electronics Engineering at KIIT, Bhubaneswar. I review for SIGGRAPH, SIGGRAPH Asia, CVPR, 3DV and Eurographics.
+
+### In the media
+
+Our study on how commercial AI models rate facial attractiveness, [*Beauty is in the AI of the beholder*](https://arxiv.org/abs/2609.02512), was featured in this YouTube Short.
+
+<iframe src="https://www.youtube-nocookie.com/embed/nr3ZrieTKXA" title="YouTube Short on Beauty is in the AI of the beholder" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width: 100%; max-width: 315px; aspect-ratio: 9 / 16; border: 0; border-radius: 8px;"></iframe>
