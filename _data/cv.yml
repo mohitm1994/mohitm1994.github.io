@@ -18,7 +18,7 @@ cv:
         url: https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence
         area: Computer Science
         studyType: Dr.-Ing.
-        start_date: 2021-09
+        start_date: 2021-10
         end_date: 2026-03-31
         highlights:
           - Advisor Prof. Dr. Christian Theobalt. 3D human and facial modelling, generative AI and multimodal reasoning.
@@ -49,6 +49,13 @@ cv:
         start_date: 2026-04-01
         end_date: present
         summary: Lead a team of ML researchers and engineers building facial analysis and AI-powered image editing products.
+
+      - company: Max Planck Institute for Informatics
+        position: Doctoral Researcher
+        location: Saarbrücken, Germany
+        start_date: 2021-10
+        end_date: 2026-03
+        summary: PhD research on photorealistic 3D faces and head avatars, including text-driven avatar editing (AvatarStudio, TEDRA, EmoteGPT) and Gaussian morphable head models (GRMM).
 
       - company: Max Planck Institute for Informatics
         position: Research Assistant
