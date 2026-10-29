@@ -86,4 +86,4 @@ cv:
 
     Service:
       - label: Reviewer
-        details: SIGGRAPH, SIGGRAPH Asia
+        details: SIGGRAPH, SIGGRAPH Asia, CVPR, 3DV, Eurographics
